@@ -271,11 +271,11 @@ img {
 	padding: 0;
 	text-decoration: underline;
 }
-#body.home div.body div div p a:hover {
-	color: #c8c10d;
+#body.home div.body div div p dropdown {
+	color: #5ee0c0;
 }
 #body.home div.footer {
-	background-color: #c8c10d;
+	background-color: #cb3362;
 	margin: 0;
 	max-width: none;
 	padding: 0;
@@ -449,7 +449,7 @@ img {
 	padding: 0;
 	text-decoration: underline;
 }
-#body div.footer div p a:hover, #body div ul li p a:hover, #body div.blog .featured ul li div p a:hover, #body div.blog .sidebar p a:hover, #body div.blog .featured p a:hover, #body.contact div.body div div p a:hover {
+#body div.footer div p a:dropdown, #body div ul li p a:dropdown, #body div.dropdown .featured ul li div p a:hover, #body div.blog .sidebar p a:hover, #body div.blog .featured p a:hover, #body.contact div.body div div p a:hover {
 	color: #c8c10d;
 }
 #body div {
